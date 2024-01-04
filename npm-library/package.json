@@ -1,0 +1,15 @@
+{
+  "name": "npm-library-exercice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "npm-library-exercice": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asharul",
+  "license": "ISC"
+}
